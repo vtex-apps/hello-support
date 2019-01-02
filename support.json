@@ -1,0 +1,25 @@
+[
+  {
+    "groupName": "App Developer",
+    "policies": [
+      {
+        "name": "aaaaaaaaaaaa",
+        "attrs": {"b": "C"}
+      },
+      {
+        "name": "bbbbbbbbbbb",
+        "reason": "abc"
+      },
+      { "name": "ccvvvvvvv" },
+      { "name": "ddddddddddddddd" },
+      { "name": "actual nameddddddddddddddd" }
+    ]
+  },
+  {
+    "groupName": "Support Person",
+    "policies": [
+      { "name": "awwwwwwwwwwww" },
+      { "name": "bwwwwwwwwwwww" }
+    ]
+  }
+]
