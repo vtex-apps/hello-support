@@ -3,23 +3,32 @@
     "groupName": "App Developer",
     "policies": [
       {
-        "name": "aaaaaaaaaaaa",
-        "attrs": {"b": "C"}
+        "name": "read-write-workspace"
       },
       {
-        "name": "bbbbbbbbbbb",
-        "reason": "abc"
+        "name": "install-services"
       },
-      { "name": "ccvvvvvvv" },
-      { "name": "ddddddddddddddd" },
-      { "name": "actual nameddddddddddddddd" }
+      {
+        "name": "read-workspace-info"
+      },
+      {
+        "name": "link-app",
+        "attrs": {
+          "appName": "vendor.appName"
+        },
+        "reason": "Insert reason here."
+      }
     ]
   },
   {
-    "groupName": "Support Person",
+    "groupName": "Support Agent",
     "policies": [
-      { "name": "awwwwwwwwwwww" },
-      { "name": "bwwwwwwwwwwww" }
+      {
+        "name": "install-services"
+      },
+      {
+        "name": "read-workspace-info"
+      }
     ]
   }
 ]
