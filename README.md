@@ -58,7 +58,7 @@ The `support.json` file must be like the example given:
         "name": "read-workspace-info"
       },
       {
-        "name": "link-app",
+        "name": "link-apps",
         "attrs": {
           "appName": "vendor.appName"
         },
