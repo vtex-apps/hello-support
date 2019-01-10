@@ -1,6 +1,6 @@
 [
   {
-    "groupName": "App Developer",
+    "groupName": "App Developer Role",
     "policies": [
       {
         "name": "read-write-workspace"
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "groupName": "Support Agent",
+    "roleAtSupportedTenant": "Support Agent",
     "policies": [
       {
         "name": "install-services"
