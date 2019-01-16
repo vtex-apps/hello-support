@@ -9,9 +9,8 @@
     "support": "0.x"
   },
   "mustUpdateAt": "2019-12-28",
-  "categories": [],
-  "registries": [
-    "smartcheckout"
+  "categories": [
+    "support-app"
   ],
   "settingsSchema": {},
   "scripts": {
