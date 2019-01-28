@@ -12,6 +12,9 @@
   "categories": [
     "support-app"
   ],
+  "dependencies": {
+    "vtex.support-authority": "0.x"
+  },
   "settingsSchema": {},
   "scripts": {
     "postreleasy": "vtex publish --verbose"
