@@ -1,6 +1,6 @@
 [
   {
-    "groupName": "App Developer Role",
+    "role": "App Developer Role",
     "policies": [
       {
         "name": "read-write-workspace"
@@ -12,6 +12,9 @@
         "name": "read-workspace-info"
       },
       {
+        "name": "read-workspace-apps"
+      },
+      {
         "name": "link-apps",
         "attrs": {
           "appName": "vendor.appName"
@@ -21,13 +24,16 @@
     ]
   },
   {
-    "groupName": "Support Agent",
+    "role": "Support Agent",
     "policies": [
       {
         "name": "install-services"
       },
       {
         "name": "read-workspace-info"
+      },
+      {
+        "name": "read-workspace-apps"
       }
     ]
   }
