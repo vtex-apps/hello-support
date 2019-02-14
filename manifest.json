@@ -15,6 +15,9 @@
   "dependencies": {
     "vtex.support-authority": "0.x"
   },
+  "billingOptions": {
+    "free": true
+  },
   "settingsSchema": {},
   "scripts": {
     "postreleasy": "vtex publish --verbose"
