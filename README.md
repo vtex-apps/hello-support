@@ -46,7 +46,7 @@ The `support.json` file must be like the example given:
 ```json
 [
   {
-    "groupName": "App Developer",
+    "role": "app-developer",
     "policies": [
       {
         "name": "read-write-workspace"
@@ -67,7 +67,7 @@ The `support.json` file must be like the example given:
     ]
   },
   {
-    "groupName": "Support Agent",
+    "role": "support-agent",
     "policies": [
       {
         "name": "install-services"
