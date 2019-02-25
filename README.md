@@ -52,9 +52,6 @@ The `support.json` file must be like the example given:
         "name": "read-write-workspace"
       },
       {
-        "name": "install-services"
-      },
-      {
         "name": "read-workspace-info"
       },
       {
@@ -63,17 +60,20 @@ The `support.json` file must be like the example given:
           "appName": "vendor.appName"
         },
         "reason": "Insert reason here."
-      }
+      },
+      {
+        "name": "read-workspace-apps"
+      },
     ]
   },
   {
     "role": "support-agent",
     "policies": [
       {
-        "name": "install-services"
+        "name": "read-workspace-info"
       },
       {
-        "name": "read-workspace-info"
+        "name": "read-workspace-apps"
       }
     ]
   }

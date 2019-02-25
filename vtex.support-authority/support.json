@@ -1,6 +1,6 @@
 [
   {
-    "role": "App Developer Role",
+    "role": "app-developer",
     "policies": [
       {
         "name": "read-write-workspace"
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "role": "Support Agent",
+    "role": "support-agent",
     "policies": [
       {
         "name": "read-workspace-info"
