@@ -6,9 +6,6 @@
         "name": "read-write-workspace"
       },
       {
-        "name": "install-services"
-      },
-      {
         "name": "read-workspace-info"
       },
       {
@@ -26,9 +23,6 @@
   {
     "role": "Support Agent",
     "policies": [
-      {
-        "name": "install-services"
-      },
       {
         "name": "read-workspace-info"
       },
