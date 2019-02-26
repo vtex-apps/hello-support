@@ -1,10 +1,10 @@
 {
   "vendor": "vtex",
   "name": "hello-support",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "title": "Getting Started with VTEX Support Apps",
   "description": "A sample support app with a basic support.json",
-  "defaultLocale": "pt-BR",
+  "defaultLocale": "en-US",
   "builders": {
     "support": "0.x"
   },
@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "vtex.support-authority": "0.x",
-    "vtex.support-browser-session": "0.x"
+    "vtex.support-browse-session": "0.x"
   },
   "billingOptions": {
     "free": true
