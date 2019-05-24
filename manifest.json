@@ -13,7 +13,9 @@
     "support-app"
   ],
   "dependencies": {
-    "vtex.support-authority": "0.x",
+    "vtex.support-authority": "0.x"
+  },
+  "peerDpendencies": {
     "vtex.support-browse-session": "0.x"
   },
   "billingOptions": {
