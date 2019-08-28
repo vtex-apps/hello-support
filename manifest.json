@@ -6,7 +6,8 @@
   "description": "A sample support app with a basic support.json",
   "defaultLocale": "en-US",
   "builders": {
-    "support": "0.x"
+    "support": "0.x",
+    "docs": "0.x"
   },
   "mustUpdateAt": "2019-12-28",
   "categories": [
