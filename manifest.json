@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "hello-support",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "title": "Getting Started with VTEX Support Apps",
   "description": "A sample support app with a basic support.json",
   "defaultLocale": "en-US",
